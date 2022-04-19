@@ -1,6 +1,6 @@
 ## PDF Stitcher Overview
 
-    The PDF stitcher software is very simple. Do you have 2 or more password free PDF files? Do you you want to combine them together into a single PDF? Fantastic, you can use PDF Stitcher. 
+The PDF stitcher software is very simple. Do you have 2 or more password free PDF files? Do you you want to combine them together into a single PDF? Fantastic, you can use PDF Stitcher. 
 
 
 ## PDF Stitcher
