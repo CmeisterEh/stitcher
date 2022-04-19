@@ -19,6 +19,8 @@ In short, add files using the “input” portion of the program. Customize the 
 6. Os
 7. DateTime
 
+If you want to look through the sourcecode, feel free to download stitcher.py. 99% of the code is just setting up the GUI buttons and features. 
+
 
 ## Stitcher, how it looks
 ![alt text](images/mainGUI.jpg)
