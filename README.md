@@ -7,7 +7,7 @@ The PDF stitcher software is very simple. Do you have 2 or more password free PD
 
 This GUI is pretty simple. Download the “stitcher.exe” program, and the “SupportFiles” folder. Then, you can run this program. A help file is included with the program. 
 
-In short, add files using the “input” portion of the program. Customize and output location using the “output” portion of the program. Then, hit “merge”. 
+In short, add files using the “input” portion of the program. Customize the output location using the “output” portion of the program. Then, hit “merge”. 
 
 ## This program has a number of dependencies. 
 
