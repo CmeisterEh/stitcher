@@ -1,4 +1,4 @@
-#     PDF Stitcher Overview
+##     PDF Stitcher Overview
 
     The PDF stitcher software is very simple. Do you have 2 or more password free PDF files? Do you you want to combine them together into a single PDF? Fantastic, you can use PDF Stitcher. 
 
@@ -9,11 +9,8 @@ This GUI is pretty simple. Download the “stitcher.exe” program, and the “S
 
 In short, add files using the “input” portion of the program. Customize and output location using the “output” portion of the program. Then, hit “merge”. 
 
-    This program has a number of dependencies. 
+##This program has a number of dependencies. 
 
-To download, import the "crc_Program.z" file onto your computer. This is a simple zipped folder. Change the file type to .zip and unzip like normal. The program, CRC_Program.exe, will run within this folder wherever you put it in your computer. However, the .exe requires the "SupportFiles" folder to go with it in order to work. 
-
-This program is based on a number of dependencies
 1. PY2PDF
 2. ToolTip.py 
 3. PopupMenu.py
